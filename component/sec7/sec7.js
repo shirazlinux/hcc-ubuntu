@@ -16,7 +16,7 @@ let list =[
 //{ link:"https://ramakdairy.com/", img:"img/ramak.png", title:"رامک" , des:"شرکت فرآورده های لبنی  تولیدکننده انواع محصولات لبنی و یکی از بزرگترین زیرمجموعه های هلدینگ دلتا در ایران است "},
 
 template.innerHTML = `
-<link rel="stylesheet" href="../output.css">
+<link rel="stylesheet" href="output.css">
  <link rel="stylesheet" href="font/all.min.css">
 
 
