@@ -10,8 +10,7 @@ import { sec5 } from "../component/sec5/sec5.js";
 import { sec6 } from "../component/sec6/sec6.js";
 import { sec7 } from "../component/sec7/sec7.js";
 
-
-
+https://shirazlinux.github.io/hcc-ubuntu/fonts/woff/YekanBakh-thin.woff
 
 window.customElements.define(`nav-r`, navs);
 window.customElements.define(`main-h`, mainHeader);
